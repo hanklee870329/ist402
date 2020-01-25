@@ -26,7 +26,10 @@ When using HTML, it is somewhat difficult to convey an aesthetically-pleasing de
 
 
 ## JavaScript
+When creating a website, HTML is a good language used on web pages. HTML elements is a type of code that made up of different sets of characters. They can also be called as tag. They usually defined as a starting tag which also has an ending tag at the end of the code, and the code between at is the main component of creating the website. HTML elements can have attributes and content, which can be headings, paragraphs, links, lists, embedded media, or any other format.
+	HTML elements can placed into two different groups: block level and inline level. The former makes up the document's structure, while the latter dress up the contents of a block. In addition, Block elements occupy 100% of the available width and have a newline character before and after. Inline elements will only take up the space needed.
 
+HTML, also known as Hypertext Markup Language, is a popular coding language that communicates directly with a web browser to display text, images, and other multimedia to a webpage. HTML works on all major web browsers, as well as mobile web browsers. In order to tell a browser how to format and organize content, HTML tags can be used. These tags contain attributes enclosed within brackets, which can be further explained in the links below. 
 
 ## Yarn
 
